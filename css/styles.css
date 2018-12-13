@@ -139,6 +139,10 @@ button {
   margin-bottom: 10px;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .bottom {
   font-style: italic;
   margin-top: 20px;
